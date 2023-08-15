@@ -1,0 +1,26 @@
+ul li.checked{
+background-color: #888;
+color: #fff;
+text-decoration: line-through;
+}
+.close{
+position: absolute;
+right: 0;
+top: 0;
+padding:8px 15px;
+
+
+
+}
+.close:hover{
+    cursor: pointer;
+}
+span{
+    font-weight: bold;
+}
+#deleteAll{
+    position: absolute;
+    right: 5px;
+    padding: 2px;
+
+}
